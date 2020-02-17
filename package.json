@@ -13,7 +13,10 @@
     "deploy": "git push heroku master"
   },
   "keywords": [],
-  "author": "",
+  "engines": {
+    "node": "12.13.1"
+  },
+  "author": "Erika",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
